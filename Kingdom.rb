@@ -211,7 +211,7 @@ class Kingdom
     puts '**********************************************************************'
     puts '**********************************************************************'
     puts "  Market Values: GOLD: #{@goldMarketValue.round(2)} **  Lumber: #{@lumberMarketValue.round(2)} **  Food: #{@foodMarketValue.round(2)} "
-    puts "  Market Values: GOLD: " 
+    #puts "  Market Values: GOLD: " 
     #printf('%.2f', @goldMarketValue)
     puts '**********************************************************************'
     puts ''
